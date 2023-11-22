@@ -1,0 +1,1 @@
+export { AppLazy as App } from './App.lazy';
